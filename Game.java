@@ -1,3 +1,4 @@
+// BOT LOGIC IS YET TO BE IMPLEMENTED, Game is fully functioning as of now
 import java.util.Scanner;
 import java.util.Random;
 
@@ -76,4 +77,5 @@ public class Game {
           
      
 }
+
     
